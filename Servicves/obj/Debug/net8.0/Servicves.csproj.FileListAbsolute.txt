@@ -1,0 +1,15 @@
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\obj\Debug\net8.0\Servicves.csproj.AssemblyReference.cache
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\obj\Debug\net8.0\Servicves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\obj\Debug\net8.0\Servicves.AssemblyInfoInputs.cache
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\obj\Debug\net8.0\Servicves.AssemblyInfo.cs
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\obj\Debug\net8.0\Servicves.csproj.CoreCompileInputs.cache
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\bin\Debug\net8.0\Servicves.deps.json
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\bin\Debug\net8.0\Servicves.dll
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\bin\Debug\net8.0\Servicves.pdb
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\bin\Debug\net8.0\Repositories.dll
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\bin\Debug\net8.0\Repositories.pdb
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\obj\Debug\net8.0\Servicves.csproj.Up2Date
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\obj\Debug\net8.0\Servicves.dll
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\obj\Debug\net8.0\refint\Servicves.dll
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\obj\Debug\net8.0\Servicves.pdb
+C:\Users\vopha\Desktop\PE\PE_PRN211_SP24_PracticalTest_VoThanhPhat\Servicves\obj\Debug\net8.0\ref\Servicves.dll
